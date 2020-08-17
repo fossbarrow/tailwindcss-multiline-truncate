@@ -1,0 +1,26 @@
+{
+  "name": "@fossbarrow/tailwindcss-multiline-truncate",
+  "version": "1.0.0",
+  "description": "Support for truncating multiple lines in Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fossbarrow/tailwindcss-multiline-truncate.git"
+  },
+  "keywords": [
+    "tailwindcss-plugin",
+    "tailwindcss",
+    "truncate-text",
+    "multiline-truncate"
+  ],
+  "author": "hello@fossbarrow.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fossbarrow/tailwindcss-multiline-truncate/issues"
+  },
+  "homepage": "https://github.com/fossbarrow/tailwindcss-multiline-truncate#readme"
+}
+
